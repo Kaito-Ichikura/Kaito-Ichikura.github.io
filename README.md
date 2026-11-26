@@ -17,11 +17,11 @@ I am a Ph.D. candidate in the Department of System Information Sciences, Graduat
 
 ### Journal Articles
 
-1. **Kaito Ichikura**, "Continua of Logics Related to Intuitionistic and Minimal Logics," *Bulletin of the Section of Logic*, 54(2):283–323, 2025. [[DOI](https://doi.org/10.18778/0138-0680.2025.06)]
+1. **Kaito Ichikura**, "Continua of Logics Related to Intuitionistic and Minimal Logics," *Bulletin of the Section of Logic*, 54(2):283–323, 2025. [[DOI](https://doi.org/10.18778/0138-0680.2025.06)] [[PDF](./papers/ichikura2025_bsl.pdf)]
 
 ### Conference Proceedings
 
-1. **Kaito Ichikura**, "Arithmetical Characterizations of Two Intuitionistic Logical Principles," *Electronic Proceedings in Theoretical Computer Science (EPTCS)*, 455:21–31, 2026. [[DOI](https://doi.org/10.4204/EPTCS.455.3)]
+1. **Kaito Ichikura**, "Arithmetical Characterizations of Two Intuitionistic Logical Principles," *Electronic Proceedings in Theoretical Computer Science (EPTCS)*, 455:21–31, 2026. [[DOI](https://doi.org/10.4204/EPTCS.455.3)] [[PDF](./papers/ichikura2026_eptcs.pdf)]
 
 ---
 
