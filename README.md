@@ -29,7 +29,7 @@ I am a Ph.D. candidate in the Department of System Information Sciences, Graduat
 
 - "Arithmetical Characterizations of Two Intuitionistic Logical Principles," *Non-Classical Logics. Theory and Applications 2026 (NCL'26)*, Toruń, Poland, October 2026.
 - "On the Relationship between the Disjunction and Existence Properties in Logics with Congruence Negation and Arithmetics," *CCC 2026: Continuity, Computability, Constructivity – From Logic to Algorithms*, Kyoto, Japan, May 2026.
-- "Hyperdoctrine Semantics for Subminimal First-Order Logics" (with Nobu-Yuki Suzuki), *18th Asian Logic Conference (ALC 2025)*, Kyoto, Japan, September 2025.
+- "Hyperdoctrinal Semantics for Super-N Predicate Logics" (with Nobu-Yuki Suzuki), *18th Asian Logic Conference (ALC 2025)*, Kyoto, Japan, September 2025. [[Slides](./slides/alc2025_slides.pdf)]
 - "Continua of Logics for Negation Below Intuitionistic Logic," *Non-Classical Logics. Theory and Applications 2024 (NCL'24)*, Łódź, Poland, September 2024.
 
 ---
