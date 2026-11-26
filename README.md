@@ -7,7 +7,7 @@ I am a Ph.D. candidate in the Department of System Information Sciences, Graduat
 ## Research Interests
 
 - Proof Theory
-- Non-Classical Logics (Subminimal, Minimal, Intuitionistic, and Intermediate Predicate Logics)
+- Non-Classical Logics (Subminimal, Minimal, Paraconsistent, Intuitionistic, and Intermediate Predicate Logics)
 - Arithmetic
 - Constructivity Principles
 
